@@ -1,0 +1,25 @@
+import bge
+
+
+def main():
+
+    cont = bge.logic.getCurrentController()
+    cube = cont.owner
+    kboard =bge.logic.keyboard
+    
+    wpress = bge.logic.KX_INPUT_ACTIVE == kboard.events[bge.events.WKEY]
+    spress = bge.logic.KX_INPUT_ACTIVE == kboard.events[bge.events.SKEY]
+    apress = bge.logic.KX_INPUT_ACTIVE == kboard.events[bge.events.AKEY]
+    dpress = bge.logic.KX_INPUT_ACTIVE == kboard.events[bge.events.DKEY]
+    
+    if wpress:
+        cube.applyMovement((0 , 0.1, 0), True)
+    if spress:
+        cube.applyMovement((0 , -0.1, 0), True)
+    if apress:
+        cube.applyMovement((-0.1 , 0, 0), True)
+    if dpress:
+        cube.applyMovement((0.1 , 0, 0), True)
+        
+        
+main() 
