@@ -1,0 +1,4 @@
+working library/ working engine:
+
+we have choosen "BLENDER"(THE COMPUTER GRAPHIC SOFTWARE)
+for creating our animated 3D game "WITH THE HELP OF PYTHON3 CODING"
