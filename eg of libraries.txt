@@ -1,0 +1,15 @@
+libraies that can be worked for making games using pyhton coding:
+
+" pyglet "
+pyglet is a cross-platform windowing and multimedia library for Python. 
+pyglet provides an object-oriented programming interface for developing games and other visually-rich applications for Windows, Mac OS X and Linux using for rendering OpenGL. Some of the features of pyglet are: 
+For most application and game requirements, pyglet needs nothing else besides Python, simplifying distribution and installation. Requires ctypes, and Opengl. Uses PIL, and AVBin for most format loading. Take advantage of multiple windows and multi-monitor desktops. pyglet allows you to use as many windows as you need, and is fully aware of multi-monitor setups for use with fullscreen games. Load images, sound, music and video in almost any format. pyglet can optionally use AVbin to play back audio formats such as MP3, OGG/Vorbis and WMA, and video formats such as DivX, MPEG-2, H.264, WMV and Xvid. 
+
+" arcade "
+Arcade is an easy-to-learn Python library for creating 2D video games. It is ideal for people learning to program, or developers that want to code a 2D game without learning a complex framework. It is built on top of Pyglet and OpenGL. 
+
+" gloopy "
+Gloopy is a simple OpenGL render loop, in pure Python, based on pyglet. It also uses PyOpenGL bindings. It is at an early stage of development and is hardly documented, although there are a couple of example demo scripts. It provides utility functions and classes for populating a 3D world with items which are rendered as VBOs. There are utilities for moving a camera around in the world, and also facilities to programmatically create and manipulate simple polyhedra, and then convert the resulting shapes into VBOs for rendering. 
+
+" pyopengl"
+Generally PyOpenGL games will also make use of PyGame. 
