@@ -1,0 +1,10 @@
+respected sir/instructor,
+we have finalised and choose a substitude for our project as a library/engine that is "py game"..
+our project, that was based on" 3d modeling game " using "BLENDER" was such a huge task and would not be possible to complete in 2 months so we have switch to the next engine that is "py game"
+
+ABOUT PY GAME:
+pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. Like SDL, pygame is highly portable and runs on nearly every platform and operating system. Millions of people have downloaded pygame itself, which is a whole lot of bits flying across the interwebs.
+
+pygame.org (the website) welcomes all Python game, art, music, sound, video and multimedia projects. Once you have finished getting started you could add a new project or learn about pygame by reading the docs. For more information on what is happening in the pygame world see the community dashboard, which lists many things like our projects we are working on, news (our blog with rss), twitter, reddit (forum), stackoverflow (Q&A), github (development), irc (chat), mailinglist (we love writing electronic mail to each other) and other various bits and pieces about pygame from around the internets.
+
+pygame (the community) is a small volunteer group of creative humans who are making things (there may also be a few cats, several koalas, dozens of doggos, 3.14 gnomes, and 42 robots who also tinker amongst us). We respect each other, and follow the Python community code of conduct, whilst we help each other make interesting things.
