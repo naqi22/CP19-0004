@@ -1,0 +1,13 @@
+members task/class distrbution "final"
+
+huzaifa abid:	
+	main player class
+ 
+shahbaz and naqi hussain :
+	enemy class
+
+leway muhammad:
+	map class
+
+zubair khan:
+	bullet class.
